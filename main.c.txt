@@ -6,7 +6,7 @@
 #define CONSTANT 33
 #define CONSTANT1 36
 
-
+//danas je lep i suncan dan
 
 void main()
 {
